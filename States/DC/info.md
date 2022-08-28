@@ -1,0 +1,3 @@
+# Washington, DC
+
+[A GitHub repo from 2014](https://github.com/mattgroh/DC-Voters-Analysis) has an old version of this data, but not the original file.  I have contacted the owner of the repository, and the original disk was lost.  If you happen to live in Washington, DC, I would appriciate it if you fill out [the form](https://www.dcboe.org/Data-Resources-Forms/Request-Data), go to the building, pay $2 for a CD and provide me with a more recent version, preferably in ISO format.
